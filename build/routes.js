@@ -8782,8 +8782,7 @@ export default {
       "/information/:type?": {
         "path": "/information/:type?",
         "categories": [
-          "new-media",
-          "popular"
+          "new-media"
         ],
         "example": "/aliresearch/information",
         "parameters": {
@@ -55372,7 +55371,8 @@ export default {
       "/moment": {
         "path": "/moment",
         "categories": [
-          "new-media"
+          "new-media",
+          "popular"
         ],
         "example": "/huxiu/moment",
         "parameters": {},
