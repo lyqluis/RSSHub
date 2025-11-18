@@ -8782,8 +8782,7 @@ export default {
       "/information/:type?": {
         "path": "/information/:type?",
         "categories": [
-          "new-media",
-          "popular"
+          "new-media"
         ],
         "example": "/aliresearch/information",
         "parameters": {
@@ -25120,7 +25119,8 @@ export default {
       "/telegraph/:category?": {
         "path": "/telegraph/:category?",
         "categories": [
-          "finance"
+          "finance",
+          "popular"
         ],
         "example": "/cls/telegraph",
         "parameters": {
