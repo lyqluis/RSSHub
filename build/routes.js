@@ -25119,8 +25119,7 @@ export default {
       "/telegraph/:category?": {
         "path": "/telegraph/:category?",
         "categories": [
-          "finance",
-          "popular"
+          "finance"
         ],
         "example": "/cls/telegraph",
         "parameters": {
@@ -106481,7 +106480,8 @@ export default {
       "/:user/:routeParams?": {
         "path": "/:user/:routeParams?",
         "categories": [
-          "social-media"
+          "social-media",
+          "popular"
         ],
         "view": 1,
         "example": "/threads/zuck",
